@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Munro, Alexander, 1753-1817</dcterms:creator>
+<dcterms:created>1805-12-07</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22659</edm:isShownAt>
+<dcterms:description>Alexander Munro, Custom House, London, England, to James Monroe, place unknown. Reports that his AM brother is in a more favorable situation now. 1 page. Autograph letter signed, including endorsement by James Monroe.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe Family Papers</dcterms:isPartOf>
+<dcterms:title>Alexander Munro to James Monroe, December 7, 1805</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 82 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/b8badb9d-2625-4336-8a8e-7a1128c28ef1/retrieve</edm:preview>
+</mdRecord>

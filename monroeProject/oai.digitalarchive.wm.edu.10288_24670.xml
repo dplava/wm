@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tucker, St. George, 1752-1827</dcterms:creator>
+<dcterms:created>1795-03-08</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24670</edm:isShownAt>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>St. George Tucker, Williamsburg, Va., to "Citizen James Monroe," Minister plenipotentiary ambassador from the United States of America, Paris, France, March 8, 1795</dcterms:title>
+<dcterms:identifier>Mss. 39.1 M75</dcterms:identifier>
+<dcterms:isPartOf>James Monroe Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/2784a62a-4505-4757-857c-037c3ff891d4/retrieve</edm:preview>
+</mdRecord>

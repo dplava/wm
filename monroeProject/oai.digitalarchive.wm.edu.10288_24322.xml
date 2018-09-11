@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Cooper, J.B.</dcterms:creator>
+<dcterms:created>1822-03-13</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24322</edm:isShownAt>
+<dcterms:description>Discusses a lottery, expect the arrival of minister from Mexico with 13 or 14 million dollars to be spent on a navy for Mexico. Hopes "Jimmy Monroe..will not be governed by his fears on this occasion but readily receive his excellency." Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Jay Johns Collection of James Monroe Papers</dcterms:isPartOf>
+<dcterms:title>J.B. Cooper, Norfolk, to John Page, Hampton, 1822 March 13</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 68 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/d589dfa5-e35a-4a6d-8a3b-383f7e928e26/retrieve</edm:preview>
+</mdRecord>

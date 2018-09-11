@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<edm:isShownAt>http://hdl.handle.net/10288/20820</edm:isShownAt>
+<dcterms:description>Draft of speech, concerning the "Stetler's Case"; explains what rights Americans have and why they have them; explains how these righs affect the accused; claims that the charged was not legally made; reminds the jury that it is the "agent of the law"; includes another address concerning the District Attorney and his case against the defendant.  AMs.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Draft of speech, undated, by Robert Tyler concerning the Stetler's Case</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/289359df-c14a-4a45-aef0-dd1ad8409a23/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Campan, Mme (Jeanne-Louise-Henriette), 1752-1822</dcterms:creator>
+<dcterms:created>1821-10-30</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22570</edm:isShownAt>
+<dcterms:description>I am exceedingly anxious about everything concerning you and your respected parents. The loss of my dear husband. A painful gland in my breast gives me just fears, concerning the duration of my existence. My poor son was very tenderly touched by the interest you had taken in his sad destinies. I have seen Hortense de Beauharnais in her country house. She has recovered her health. She goes over her very little domain and is busy beautifying it. You know how much I cherished her when she was a Republican citizen having lost her passing crown.</dcterms:description>
+<dcterms:language>fre</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>Genet Jeanne Louise Henriette Campan to Mrs. Eliza Kortright Monroe Hay., 30 October 1821</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6d8c2747-f734-4689-843f-486754c000a4/retrieve</edm:preview>
+</mdRecord>

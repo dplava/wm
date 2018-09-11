@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1787-03-29</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15248</edm:isShownAt>
+<dcterms:description>Concerns the map of Virginia--a copy to be given to Michel Guillaume St. John de Crévecoeur; packet from Swedish ambassador; seeds from London for Madame Adrienne Catherine de Noailles, Comtesse de Tesse, leftovers go to Monsieur Chretien Guillaume de Lamoignon de Malesherbes' hotel; William Short to send medals with letter to John Jay; Jefferson is sorry to miss Col. William Stephens Smith if he comes to Paris; Jefferson failed to see Mount Cenis; observations on sculpture, painting, architecture; language; Provencale compared to Tuscan, Parisian French, Spanish; attended a benefit program in which a famous actress performed in the style of Madame Louise Dugazon but more young and attractive and better skilled; his daughter's health; regards to friends; Marquis and Marquise de Lafayette, Philip Mazzei, Chevalier de Pio, and Michel Guillaume St. John de Crévecoeur.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>St. John de Crévecoeur, J. Hector, 1735-1813</dcterms:subject>
+<dcterms:subject>Mazzei, Filippo, 1730-1816</dcterms:subject>
+<dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
+<dcterms:subject>Jay, John, 1745-1829</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1787 March 29, Aix en Provence, [France] to [William] Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/aa59447a-a3ac-4ee8-9a48-104c1dfc1f4c/retrieve</edm:preview>
+</mdRecord>

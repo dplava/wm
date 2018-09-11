@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1872-03-03</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20777</edm:isShownAt>
+<dcterms:description>Is worried about the actions of the U.S. District Court; claims that in the supposed "Ku Klux cases" Judge Bustud is acting without respect for the law and exerting his power to have innocent people sentenced; feels that the Judge is being entirely too militaristic; reports to Tyler that a Mr. Brickell, representing the whole community, confronted the Judge with a charge of the same; Love believes that he and Bruckwell will be indicted for "conspiracy to intimidate" a government official; informs Tyler that he may show the letter to his friends and is welcome to publish the facts of the letter.  Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1872 March 3, William W. Love?, Huntsville, Alabama to  Robert Tyler</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/e030fd46-13e1-4861-84b2-97a2852a7392/retrieve</edm:preview>
+</mdRecord>

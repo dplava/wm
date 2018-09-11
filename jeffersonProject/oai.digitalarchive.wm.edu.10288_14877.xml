@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1789-03-24</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14877</edm:isShownAt>
+<dcterms:description>No news from America or Europe; advises Short on his career aspirations and whether to stay in Europe or return to America.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1789 March 24, Paris, [France] to William Short, "poste restante Marseilles," [France].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/0ba72b14-c88d-491c-a14a-0200f5b77f0f/retrieve</edm:preview>
+</mdRecord>

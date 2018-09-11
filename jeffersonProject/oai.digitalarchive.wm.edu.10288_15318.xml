@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1822-10-19</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15318</edm:isShownAt>
+<dcterms:description>University of Virginia is an outstanding example of classical architecture, but is lacking its keystone, the rotunda; opposition is fueled by the College of William &amp; Mary and by Presbyterians, who "dread the light which this university is to shed on the public mind"; Unitarianism is "a breeze advancing from the North"; wishes that Congress would spend suplus funds on public improvements; Jefferson's health has improved, but he is still weak.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Religion</dcterms:subject>
+<dcterms:title>Letter, 1822 October 19, Monticello, [Albemarle County, Virginia] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/1ea095ca-c310-45cc-aa0f-bdeb0f9b2150/retrieve</edm:preview>
+</mdRecord>

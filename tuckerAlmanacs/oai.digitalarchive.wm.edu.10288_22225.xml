@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:created>1774</dcterms:created>
+<dcterms:identifier>AY326.W7 V81 1774</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/10288/22225</edm:isShownAt>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>The Virginia almanack for the year of our Lord God 1774 : being the second after bissextile or leap year ...</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:isPartOf>Rare Books: St. George Tucker signature</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a9a05c5e-2f4c-445e-97d6-92814aaede28/retrieve</edm:preview>
+</mdRecord>

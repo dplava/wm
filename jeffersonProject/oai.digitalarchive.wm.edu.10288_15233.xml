@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Rochemont, Quinette de</dcterms:creator>
+<dcterms:created>1818-02-11</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15233</edm:isShownAt>
+<dcterms:description>Sends by Mr. Holly two brochures which he is to consider the continuation of articles; one is treatise on elections; one about liberty of the press; both mark the progress, wisdom and fortitude of French public opinion; in recent election liberals got majority; discusses French politics; if Belgium and France do not offer him hospitality he will bring his family to U.S.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1818 February 11, New York , [New York] to Thomas Jefferson, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6815150d-c41d-4f89-a5f5-dcdc4ef99b73/retrieve</edm:preview>
+</mdRecord>

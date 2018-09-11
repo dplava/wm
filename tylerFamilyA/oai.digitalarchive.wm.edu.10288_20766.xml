@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1857-11-28</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20766</edm:isShownAt>
+<dcterms:description>Sends an article which he feels is a "sign of the times"; claims taht it is a version of "Hamlet" with the character of Hamlet or in this case, Henry A. Wise, left out; wonders how Mr. Buchana can listen to a man so "devoid of discretion as of principle."  Autograph Letter Signed. Including Typewritten Copy of above Autograph Letter Signed. 1 p. Including NwsCl of the article referred to in the letter. 1 p.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1857 November 28, Robert Tyler to ?</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6046dc83-552f-4129-9b90-33dedcb31573/retrieve</edm:preview>
+</mdRecord>

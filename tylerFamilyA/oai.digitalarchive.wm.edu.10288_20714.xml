@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Lynch, Patrick, 1811-1857</dcterms:creator>
+<dcterms:created>1856-01-19</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20714</edm:isShownAt>
+<dcterms:description>Feels that a recent speech made referring to Tyler is unworthy; knows that Tyler is "a patriot and a gentleman"; intends to publish something to this effect in his nxt paper.  Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1856 January 19, Patrick Lynch, New York, N.Y. to Robert Tyler</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/11d2e740-aa85-47b2-9d5b-b2adfbc56a80/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Wise, Henry A. (Henry Alexander), 1806-1876</dcterms:creator>
+<dcterms:created>1857-02-08</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20759</edm:isShownAt>
+<dcterms:description>Has met Buchanan in Washington and found him "kind and confidential"; Buchanan, seemed to him, not determined only to listen to Forney and his friends; claims that Buchanan is "warm" towards Tyler, but is obviously "restrained by Forney's objections to Tyler.. Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1857 February 8, Henry A. Wise, Richmond, Virginia to Robert Tyler</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/f517b396-fc2f-4e09-b0dd-744de3949f61/retrieve</edm:preview>
+</mdRecord>

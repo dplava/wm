@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1797-06-30</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14885</edm:isShownAt>
+<dcterms:description>Discusses options for Short's finances, including the purchase of ground rents to guard against market fluctuations caused by the Napoleonic wars; informs him that he gave his own broker Short's power of attorney to receive Short's dividends; thanks him for the barley he sent as well as the recommendation of a book  seller; invites him to visit Monticello, though he is having the roof replaced.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1797 June 30, Philadelphia, [Pennsylvania] to [William] Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/0f1cbbad-c0c5-47a0-af10-ee2b32f33091/retrieve</edm:preview>
+</mdRecord>

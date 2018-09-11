@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Burke, Aedanus, 1743-1802</dcterms:creator>
+<dcterms:created>1792-12-16</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24667</edm:isShownAt>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Aedanus Burke, Charleston, S.C., to James Monroe, Philadelphia, Pa., December 16, 1792</dcterms:title>
+<dcterms:identifier>Mss. 39.1 M75</dcterms:identifier>
+<dcterms:isPartOf>James Monroe Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/e52a4b35-5a9f-4bfe-936f-0e4debb8befa/retrieve</edm:preview>
+</mdRecord>

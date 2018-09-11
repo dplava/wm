@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1792-03-07</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14963</edm:isShownAt>
+<dcterms:description>M. de Crevecoeur advised by Mr. Brown and [James] Madison that de Lormerie's deed to lands in Kentucky should be recorded in county there of General court office in Richmond; Breckinridge, Kentucky county surveyor, certified deed Feb. 7, 1788; Barber, agent for banks took up lands, but de Lormerie should have part of 20,000 acres left; M. Roberts proved deed authenticated before Prevost in Paris but not recorded in sufficient time.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Madison, James, 1749-1812</dcterms:subject>
+<dcterms:subject>St. John de Crévecoeur, J. Hector, 1735-1813</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1792 March 7, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/224a5b65-8a6c-43f2-963a-a5fba408a2aa/retrieve</edm:preview>
+</mdRecord>

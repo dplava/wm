@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1826-01-18</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14972</edm:isShownAt>
+<dcterms:description>Confides that he has "ceased to think" on the subject of emancipation because it is "not to be a work of my day"; admits that converting slaves to serfs would be preferable to slavery, but he still prefers sending freed slaves to the West Indies, which is "greatly preferable to the mixture of colour here."</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1826 January 18, Monticello, [Albemarle County, Virginia] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/7dbb9519-6334-4d31-acb0-1997001f9547/retrieve</edm:preview>
+</mdRecord>

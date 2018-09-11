@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Landais, Peter, 1731?-1820</dcterms:creator>
+<dcterms:created>1806-01-10</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15365</edm:isShownAt>
+<dcterms:description>Wishes to demonstrate before a committee his plan for building vessels; geometrical plan now in use attributed to M. De L'hopital [?] very defective; wishes demonstration be arranged on a Saturday in a large room of Secretary of Naval Department Hotel; desires reply. [Notes enclosed this same date] Notes: Self, formerly Captain of the frigate "Alliance" wrote to T. Seine, three years ago, his opinion against having men of war of U.S. military arsenal at Brooklyn or at Washington; Seine said note had been forwarded to Jefferson, President; now has system of organization for navy of a republic and methods for making perfect ships.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1806 January 10, Washington [D.C.] to Thomas Jefferson, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/3d161560-2539-4027-b89e-981ad9a2f080/retrieve</edm:preview>
+</mdRecord>

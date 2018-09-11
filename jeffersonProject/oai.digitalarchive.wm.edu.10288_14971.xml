@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:created>1803-03-12</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14971</edm:isShownAt>
+<dcterms:description>Petition for free navigation of all navigable waters and water courses falling into the Bay of Mexico from territories of U.S. and passing through Spanish dominions; settlement now can receive only trades licensed by Spanish government. Signed: William Gordon Formans, Speaker of the House of Representatives, and Samuel Sidney Mahon, clerk.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1803 March 12, Mississippi Territory to Thomas Jefferson, [Washington D.C.].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/de8edbd4-f67b-4d7d-a73b-292abf1be9b8/retrieve</edm:preview>
+</mdRecord>

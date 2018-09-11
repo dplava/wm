@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1841-02-07</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20668</edm:isShownAt>
+<dcterms:description>Acknowledges receipt of letter from Seawell; complains of all the rain they have been having; relates news of their mututal friends in Williamsburg; the Vice-President is tolerably well, and is "I believe daily expecting a visit from General Harrison -- what between public and private matters everyminut of his time is employed and for the most part unhappily employed. For the cares of his office are already little less than the cares of the man and it is absurd to suppose that any man of his temperment and rank in life can be happy without being rich." Mother unwell; birth of his daughter.  Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1841 February 7, Robert Tyler, Williamsburg, Virginia to Boswell Seawell, Esq., New Orleans, Louisiana</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6787d167-186e-4f78-b35b-7cb9e641964b/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1857-12-10</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20767</edm:isShownAt>
+<dcterms:description>Claims that Buchanan's position on the "Kansas Question" is correct and will suit Wise; feels that Douglass has lost the Southl claims that Wise will be given the next Presidential nomination; believes that "we" can run Walker and his associates out of the Party.  Autograph Letter Signed. Including Typewritten Copy of the above Autograph Letter Signed. 1 p. Printed in Auchampaugh.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1857 December 10, Robert Tyler, Philadelphia, Pennsylvania to  Henry A. Wise</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/77ccec3a-cc86-4991-a9ea-960e632afefc/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, John, 1790-1862</dcterms:creator>
+<dcterms:created>1855-06-25</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20640</edm:isShownAt>
+<dcterms:description>Arrangements to meet Robert to attend festivities at the College of William and Mary where he [JT] is to address the literary societies; mention of Henry A. Wise as a visitor to the College; crops fair, rain frequent; Hugh Blair Grigsby will deliver an address before Phi Beta Kappa on the subject of the people of the convention of 1788.  Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1855 June 25, John Tyler, Sherwood Forest, Virginia to his son Robert Tyler</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/d4c56cb3-e905-4291-ac19-4fface4c35ad/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Rittenhouse, David, 1732-1796</dcterms:creator>
+<dcterms:created>1780</dcterms:created>
+<dcterms:identifier>AY326.W5 V5 1780</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/10288/22229</edm:isShownAt>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>The Virginia almanack for the year 1780 : being bissextile or leap-year / by David Rittenhouse, philo.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:isPartOf>Rare Books: St. George Tucker signature</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a54d1741-108c-482e-ac11-339079b46894/retrieve</edm:preview>
+</mdRecord>

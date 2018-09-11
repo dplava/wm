@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, John, 1790-1862</dcterms:creator>
+<dcterms:created>1854-06-06</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20634</edm:isShownAt>
+<dcterms:description>Discusses business disappointments--postponement of the sale of land in Kentucky and in the sale of his corn;whishes to take advantage of Mason's offer to endorse and to negotiate through the banks the note and thereby discharge his obligations to the James River and Kanawha Canal Company by July 1.  Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1854 June 6, John Tyler, Sherwood Forest, Virginia to John Young Mason</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/882a21e2-440c-4c71-8584-7b18d3280fdb/retrieve</edm:preview>
+</mdRecord>

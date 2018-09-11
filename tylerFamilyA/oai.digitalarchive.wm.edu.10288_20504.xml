@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, John, 1790-1862</dcterms:creator>
+<dcterms:created>1834-05-29</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20504</edm:isShownAt>
+<dcterms:description>Appreciates the honor conferred upon him by the citizens of Fredericksburg which was sent by him [JC]; his motives in the public office have been to uphold the Constitution and the laws and to restrain executive power; those maintaining opposite opinions have been diminished due to "that event which has transpired since many of the elections took place"; regrets inability to meet with them. Typewritten Copy of Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1834 May 29, John Tyler, Washington, D.C. to John Coalter, Fredricksburg, Virginia</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/02d94d6e-8b82-402f-a3ef-02d83a531d80/retrieve</edm:preview>
+</mdRecord>

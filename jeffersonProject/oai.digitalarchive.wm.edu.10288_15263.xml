@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1793-01-03</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15263</edm:isShownAt>
+<dcterms:description>Chides Short about his hostility toward the French Jacobins; Jefferson says that while he mourns those who were wrongly or needlessly harmed by Jacobin violence, suffering is inevitable in republican revolutions and the cause of liberty is worth the cost; claims that most Americans share his opinion, including George Washington, who advised Jefferson to write to Short and warn him not to offend the French; Jefferson also points to parallels in the American Revolution; informs Short that he will not reform the diplomatic service as he plans to retire soon; asks Short to clarify his role in the suspension of American debt payments to the French government.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1793 January 03, Philadelphia, [Pennsylvania] to [William]  Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/191f81b9-9447-4861-91d5-1b67c0325bb3/retrieve</edm:preview>
+</mdRecord>

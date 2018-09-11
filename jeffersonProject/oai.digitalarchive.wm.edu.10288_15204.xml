@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1785-05-02</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15204</edm:isShownAt>
+<dcterms:description>Concerns Jefferson's appointment as minister to France; permission for Benjamin Franklin to return to America and for Jefferson to take his place as minister to France; no secretary of legation has been appointed; Jefferson predicts Col. David Humphreys will be named in that capacity; Smith is secretary of legation for John Adams to London; a bill of the Caisse d'escomte for two hundred livres enclosed in letter; received letters from America; the system of Congress not yet decided; John Francis Mercer married to Miss Sophia Sprigg; Jefferson has not heard from James Monroe in months; William Short should arrive soon; Col. David Humphreys is well; John Quincy Adams leaves for New York and Count de Doradour will accompany him to Virginia.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Adams, John, 1735-1826</dcterms:subject>
+<dcterms:subject>Franklin, Benjamin, 1706-1790</dcterms:subject>
+<dcterms:subject>Monroe, James, 1758-1831</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1785 May 02, Paris, [France] to [William Short], St. Germain, [France].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/68a59eee-496c-4fae-b33f-2e5d2c770afd/retrieve</edm:preview>
+</mdRecord>

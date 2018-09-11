@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Seward, William Wenman</dcterms:creator>
+<dcterms:created>1785-10-25</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15316</edm:isShownAt>
+<dcterms:description>A group of Irish merchants desire to establish privately a trade relationship between their country and the United States for the mutual benefit of both nations, though they are discouraged from doing so by British parliament; seeks to know whether Jefferson feels the same and whether he could help facilitate such a relationship; Seward has written to Congress on the topic already; shares that the British are outfitting ships to intercept any American vessel that seeks to engage in trade with Ireland.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1785 October 25, London, [England], to [Thomas Jefferson], [Paris, France].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c60daceb-538c-42d0-a3c8-693790b91da1/retrieve</edm:preview>
+</mdRecord>

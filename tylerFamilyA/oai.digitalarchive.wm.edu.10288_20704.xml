@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1855-11-12</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20704</edm:isShownAt>
+<dcterms:description>Informs him that Pennsylvania is for Buchanan now; tells Wise to "lien [lean?] towards him strongly; relates that there is a "remarkably kind feeling" towards Wise among politicial friends of his; claims that Pierce movement is dead there; considers Wise's letter to the New York National Democrats "really admirable."  Autograph Letter Signed  Includes Typewritten Copy of the above Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1855 November 12, Robert Tyler, Philadelphia, Pennsylvania to Henry A. Wise</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/89dc3363-19f6-4877-a385-48b180a070b0/retrieve</edm:preview>
+</mdRecord>

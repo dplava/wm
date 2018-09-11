@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Macquillen, Ephraim Cuthbert</dcterms:creator>
+<dcterms:created>1808-09-12</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15134</edm:isShownAt>
+<dcterms:description>Sent Jefferson copy of a pamphlet addressed to people of the U.S.; wants him to lay it before Congress.  Enclosure:  Petition to people of the U.S. asking redress from country which has injured him greatly, and arguing that the government is not protecting its people's freedoms and rights.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1808 September 12, Phila[delphi]a, [Pennsylvania] to [Thomas Jefferson], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/49cdc5b0-5ab9-42e2-9115-61308b588b8e/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1789-12-14</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15306</edm:isShownAt>
+<dcterms:description>Shares that he spent his time since his letter of 21 November travelling and socializing with friends; passes along news of weddings and deaths as well as local events, including the departure of George Wythe from William &amp; Mary because he was "disgusted with some of the conduct of the professors"; comments that Hampden-Sydney "is going to nothing" as well because of the "religious phrenzy" there; comments on anti-federalism and opposition to the Constitution in Virginia, led by Patrick Henry; describes improvements being made to Richmond, Virginia, including the capitol, "an edifice of first rate dignity"; lists neighbors near Monticello; notes judicial appointments to the Supreme Court and district and circuit courts; lists cabinet-level salaries; mentions that he was offered the position of secretary of state, which he is ambivalent about but will accept if George Washington thinks it will benefit the country.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+<dcterms:subject>Wythe, George, 1726-1806</dcterms:subject>
+<dcterms:subject>Henry, Patrick, 1736-1799</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1789 December 14, Eppington, [Chesterfield County, Virginia] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/647a1014-a1fd-4053-bed7-f2cb19c82d31/retrieve</edm:preview>
+</mdRecord>

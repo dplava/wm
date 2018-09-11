@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Munro, Alexander, 1753-1817</dcterms:creator>
+<dcterms:created>1804-05-19</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22652</edm:isShownAt>
+<dcterms:description>Postmarked, May 19, 1804. Alexander Munro, n.p., to James Monro (sic), n.p. Thanks for favor relating to his brother and Colonel Ferguson, and plans for placing his AM son in school. 1 page. Autograph letter signed, including endorsement by James Monroe.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe Family Papers</dcterms:isPartOf>
+<dcterms:title>Alexander Munro to James Monro (sic), May 19, 1804</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 82 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/b3c9a385-0312-424d-96ed-827bef433ab4/retrieve</edm:preview>
+</mdRecord>

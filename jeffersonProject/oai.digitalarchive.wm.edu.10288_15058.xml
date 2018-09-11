@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Munroe, Thomas</dcterms:creator>
+<dcterms:created>1805-02-24</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15058</edm:isShownAt>
+<dcterms:description>Writes regarding claims of A. Ritchie for late Colonel Beatty regarding land; outlines policy of land purchase and transfer in Washington D.C., specifically the 1791 "Act concerning the territory of Columbia and the city of Washington"; claims of Mr. Beatty must be tested against this act which affirms title of the United States to the President's Square; location of land Mr. Beatty claims has never been made know to commissioners, himself or surveyors.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1805 February 24, "Superintendent Office" to [Thomas Jefferson], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/b71356a3-f974-4e90-a6d4-46bc394dbb86/retrieve</edm:preview>
+</mdRecord>

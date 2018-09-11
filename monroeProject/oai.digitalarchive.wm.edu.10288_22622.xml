@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Duttes, G.G.W.</dcterms:creator>
+<dcterms:created>1860-11-28</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22622</edm:isShownAt>
+<dcterms:description>Concerns the issue of slavery; refers to Lincoln as "a low, ignorant, and obscure man, known only as a "Rail Splitter"; Charles Sumner as a "coward", and William Henry Steward as an "arch-traitor"; believes a civil war is inevitable and refers to the pending difficulties between the North and the South; family news and information about previous travels; mentions that if Mr. John C. Breckinridge had won, Edward ? would have had a promotion, but the diplomatic career of Edward ?, the Sec. of Legation at Berlin, will end with James Buchanan's presidency.  Autographed Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>G.G.W. Duttes ?, Dunboynes ?, to James Monroe, New York, N.Y., 28 November, 1860.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/26c3761b-5b6f-4393-b65d-dd9bec63c168/retrieve</edm:preview>
+</mdRecord>

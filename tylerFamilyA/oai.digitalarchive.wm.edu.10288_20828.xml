@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Cooper Tyler, Priscilla, 1816-1889</dcterms:creator>
+<dcterms:created>1843</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20828</edm:isShownAt>
+<dcterms:description>Invites Mrs. Madison and Miss Legare [?] to a children's party in honor of her [EPCT] daughter Mary; notes that because Miss Legare is no longer in mourning she may Autograph Letter Signedo wish to attend; Autograph Letter Signedo invites Miss Legare's nieces.  Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1843, E. Priscilla Cooper Tyler to Dolley? Madison</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/2a648fe2-bb78-4c63-ac79-e0a7dc28352e/retrieve</edm:preview>
+</mdRecord>

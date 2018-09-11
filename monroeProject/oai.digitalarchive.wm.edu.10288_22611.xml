@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Monroe, Eliza Douglas, 1799-1852</dcterms:creator>
+<dcterms:created>1843-09-28</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22611</edm:isShownAt>
+<dcterms:description>States she wouldn't have had to send him the previous letter if he had ceased pursuing their daughter Fanny as they requested; expresses belief that eventually it will be like the situation never occured and he will be welcome at Farmwood again.  Autographed Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>Eliza M. (Douglas) Monroe, Farmwood, to William Thompson Van Zandt, n.p., 28 September 1843.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a3f21b33-fda4-4c5d-a709-b4e158345707/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<edm:isShownAt>http://hdl.handle.net/10288/20809</edm:isShownAt>
+<dcterms:description>Draft of letter concerning one of Tyler's legal cases; in this case he is the defending attorney for John and Michael Castillo, accused of assault and battery; Tyler presents a detailed account of the trial; complains that the case has been misrepresented.  Df.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Draft of Letter, undated, concerning one of Robert Tyler's legal case defending John and Michael Castillo</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c7480479-a96b-4748-879c-de349c5bfd2f/retrieve</edm:preview>
+</mdRecord>

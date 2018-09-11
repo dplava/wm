@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1788-11-21</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15301</edm:isShownAt>
+<dcterms:description>Expresses his condolences to William Short on his illness while traveling and cautions him about resuming his journey too soon; passes word that Pennsylvania elected Robert Morris and William Maclay as senators; an "ill understanding" exists between John Adams and John Hancock over both of their nominations as vice president; discusses the illness of the King of England and surmises that he is "at death's door"; reports on French politics, including alignments of the Estates and the fall from public favor of the Notables; comments that stocks are down; mentions the deaths of Armand Louis de Gontaut, Marechal de Biron and Francois Jean de Beauvoir, Chevalier de Chastellux; asks William Short to pass along enclosed letters to John Rutledge. Jr.; Jefferson expresses his pleasure that William Short harbors no regrets about life in Paris.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:subject>Hancock, John, 1737-1793</dcterms:subject>
+<dcterms:subject>George III, King of Great Britain, 1738-1820</dcterms:subject>
+<dcterms:subject>Adams, John, 1735-1826</dcterms:subject>
+<dcterms:title>Letter, 1788 November 21, Paris [France] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/7b8e0b8c-2de6-4189-bf44-d3b091ce34de/retrieve</edm:preview>
+</mdRecord>

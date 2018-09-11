@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:created>1787-12-28</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15333</edm:isShownAt>
+<dcterms:description>Eager to know Jefferson's expectations for the tobacco trade and the French purchasing contracts next year; they are keeping prices high on what they have stored because they hear that the farmers-general will demand very low prices for it; believes that fixed prices, especially if tied to the quality of the tobacco, will benefit the seller, who could always sell it to someone else willing to pay more; the French usually get inferior tobacco, regardless of price.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1787 December 28, L'Orient, [France], to Thomas Jefferson, Paris, [France].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/d9f529bf-2dad-492a-a383-3814479fc4e0/retrieve</edm:preview>
+</mdRecord>

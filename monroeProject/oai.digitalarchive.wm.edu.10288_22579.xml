@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Rogers, Hortensia Monroe</dcterms:creator>
+<dcterms:created>1831-02-06</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22579</edm:isShownAt>
+<dcterms:description>Received letter from Samuel L. Gouverneur. Papers announced passage of bill for $30,000 (for James Monroe). Senate may increase it. John Mercer says abuse was gross and Sam says he was insulted on the floor of the Senate himself. She (Antoinette) told me you had written to her telling her of the offer for "Ash Field" - that she had sold all the Ashfield negroes for 1400 dollars.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>Hortensia Monroe Rogers "Druid Hill" near Baltimore Md. to Mrs. Eliza Kortright Monroe Hay., 6 February 1831</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/3bcd8c0d-2d3f-431d-9e01-e029e0770a5b/retrieve</edm:preview>
+</mdRecord>

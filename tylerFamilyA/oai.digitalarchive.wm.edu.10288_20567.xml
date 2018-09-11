@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, John, 1790-1862</dcterms:creator>
+<dcterms:created>1849-09-21</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20567</edm:isShownAt>
+<dcterms:description>Asks Robert to procure five bushels of wheat of Pennsylvania growth; mentions varieties he does not want, prefers Zimmerman wheat; remarks on the importance of changing seed every five years; wonders if he [RT] and the Doctor Phipps could make the selection from the farmers around Bristol; plans to travel to N.Y. on the first of October on business and to attend the agricultural show at Flushing, Long Island, then to visit Briston, Philadelphia, and Baltimore.  Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1849 September 21, John Tyler, Pittsfield, Massachusetts to Robert Tyler, Philadelphia, Pennsylvania</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/3d8c3ac7-3a2e-4e9b-a049-4117e4132c5c/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<edm:isShownAt>http://hdl.handle.net/10288/20812</edm:isShownAt>
+<dcterms:description>Partial draft of speech, referring to other forms government in comparison to that of the U.S.; feels that an "Almighty Providence" granted the American Constitution; believes that nature has provided for the commercial success of the American Continent; puts forth the notion that U.S. borders should extend straight across to the pacific; declares that the American government provides many advantages to its people; speculates on the future of the country.  Df.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Partial draft of speech, undated, by Robert Tyler referring to other forms of government in camparsion to the United States</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/10387ffd-5616-4ee1-82e1-e9da5326746e/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Hay, Eliza Kortright Monroe, 1786-1840</dcterms:creator>
+<dcterms:created>1838-03</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22672</edm:isShownAt>
+<dcterms:description>Postmarked, March, 1838. Eliza Kortright Hay, Paris, France, to King Louis Phillipe, France. Concerning her bad health and bad financial situation; problems with her father's will; asks for aid, and relates how her father and mother assisted his mother, the Duchess of Orleans during the time period, 1794-1796. 3 pages. Draft of letter.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe Family Papers</dcterms:isPartOf>
+<dcterms:title>Eliza Kortright Hay to King Louis Phillipe, France, March, 1838</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 82 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/97f0fe97-65fa-46ec-bd28-7a1e248011f1/retrieve</edm:preview>
+</mdRecord>

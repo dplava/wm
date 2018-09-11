@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Armstrong, William M.</dcterms:creator>
+<dcterms:created>1855-12-12</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20706</edm:isShownAt>
+<dcterms:description>Senate of the United States, Washington D.C. Armstrong, Reserved member; acknowledges that the remonstrant, Jee Seawell [?] has accused the Board of being unlawful by not publically stating the reasons for which they dismissed him.  Printed in Auchampaugh.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1855 December 12, William M. Armstrong, Norfolk, Virginia to ?, Senate of the United States, Washington, D.C.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/34bda888-fec6-4991-9d93-a1cf9a439e10/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Price, Chandler, 1765 or 6-1827</dcterms:creator>
+<dcterms:created>1807-01-13</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15367</edm:isShownAt>
+<dcterms:description>Enclosed a true copy of a letter Price received that morning from Benjamin Morgan of New Orleans; Morgan "is a native of this state" and lived there until a few years ago; brings this to Jefferson's attention because of the conspiracies against the free and happy people. Letter enclosed: Morgan has heard of a conspiracy headed by Aaron Burr and General Wilkinson to either attack the Western country with aid received from Jamaica or to secede the territory west of the mountains and set up a new government.  Does not have men and supplies enough to fight off the insurrection.  Feels the French and common people will help oppose the conspirators.  Fears insurrections such as this will continue to occur as long as the "high Americans" have no character and will not support the government.  Hopes he will be able to stop the attack on New Orleans he feels will come in a few days.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Morgan, Benjamin R., 1765-1840</dcterms:subject>
+<dcterms:subject>Burr, Aaron, 1756-1836</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1807 January 13, Philadelphia, [Pennsylvania] to Thomas Jefferson, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/bc3c45a2-db29-40c0-9ad6-7b1bce51d529/retrieve</edm:preview>
+</mdRecord>

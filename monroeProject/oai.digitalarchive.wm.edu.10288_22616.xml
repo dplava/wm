@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Monroe, Eliza Douglas, 1799-1852</dcterms:creator>
+<dcterms:created>1845-07-28</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22616</edm:isShownAt>
+<dcterms:description>Concerns her meeting with him; has decided to let him see her daugher Fanny as "any other gentleman," but states all understanding will be lost if his intentions appear to be those of an "intended lover."  Autographed Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>Eliza M. (Douglas) Monroe, New York, to William Thompson Van Zandt, n.p., 28 July 1845.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/1e76fe42-bc22-4e73-acba-945d670edf16/retrieve</edm:preview>
+</mdRecord>

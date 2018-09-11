@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1791-03-16</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15312</edm:isShownAt>
+<dcterms:description>Instructs Short to offer a job in the United States to the maitre d'Hotel of a Mde. de Corny if Jefferson's former servant will not make the trip; if the maitre d' will not accept the position, Jefferson commissions Short to choose someone else as he sees fit; requests a set of Giovanni Piranesi's drawings of the Pantheon in order to "render them useful in the public buildings now to be begun at Georgetown"; tells Short that the ambassadors to France and Holland have not been decided yet, but that the delay works to Short's advantage; mentions the unpopularity in the South of legislation authorizing an excise tax on liquor and a National Bank; says they might "produce a stand against the federal government";  offers investment advice to Short.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Piranesi, Giovanni Battista, 1720-1778</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1791 March 16, Philadelphia,  [Pennsylvania] to [William] Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/b73d3488-58ea-427a-8d0c-77146ec7a8ed/retrieve</edm:preview>
+</mdRecord>

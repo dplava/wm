@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1788-03-29</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15270</edm:isShownAt>
+<dcterms:description>Concerns business that Jefferson has in Amsterdam concerning payments to Mr. Ferdinand Grand and the state of Virginia; letter arrived from the Commissioners of the Treasury that called for delay on the payments until the money arrived; instructs William Short to inform Grand of these developments; the Count Elenore Francois Elie de Moustier's arrival in New York; forgot to tell Monsieur Pierre Samuel Dupont de Nemours of the arrival of Dupont's son; asks William Short to apologize for the mistake; leaves tomorrow for Utrecht and Nimeguen; will follow the Rhine to Frankfurt and Strasburg; will return to Paris when the roads become impassable; encloses bill for 100 louis and instructs Short on how to divide it; rent due the 15th; Mr. Ferdinand Grand to pay it if Jefferson has not returned; John Bannister. Sr. and the seeds and plants to be sent to Adrienne Catherine de Noailles, Comtesse de Tesse; regards to Madame Sophie Ernestine de Tott.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Du Pont de Nemours, Pierre Samuel, 1739-1817</dcterms:subject>
+<dcterms:subject>Bannister, John, 1760-1836</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1788, March 29, Amsterdam, [The Netherlands] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/9df34eb6-dba0-42f3-9754-f9c0620dddc9/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Monroe, James, 1758-1831</dcterms:creator>
+<dcterms:created>1820-09-02</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24319</edm:isShownAt>
+<dcterms:description>Introduction of William Taliaferro. Autograph Letter Signed.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Jay Johns Collection of James Monroe Papers</dcterms:isPartOf>
+<dcterms:title>James Monroe, Highland, to Major Sylvanus Thayer, Supt. of the Military Academy at West Point, 1820 September 2</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 68 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6cff96c7-2595-499f-95f4-6a2eba42048b/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Robert, 1816-1877</dcterms:creator>
+<dcterms:created>1856-11-04</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20747</edm:isShownAt>
+<dcterms:description>Claims that the election is going smoothly and that Buchanan will be elected "without doubt"; reports taht he was upset by the placing of an editorial he wrote on the fourth page of the newspaper; met with the editor, Mr. Fiske, and was promised that it would be corrected; concerned that this act may be part of a scheme against Tyler and Wise to proceed with caution and to avoid any argument with Buchanan and to see him at the "earliest moment."  Autograph Letter Signed. Printed in Auchampaugh.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1856 November 4, Robert Tyler, Philadelphia, Pennsylvania to Henry A. Wise</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a13c5885-32ed-4271-93e2-d438f3200236/retrieve</edm:preview>
+</mdRecord>

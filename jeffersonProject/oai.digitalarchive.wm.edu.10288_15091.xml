@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Mason, Armistead Thompson, 1787-1819</dcterms:creator>
+<dcterms:created>1809-02-14</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15091</edm:isShownAt>
+<dcterms:description>By order of meeting [of Republicans of Loudon county] transmits to him the enclosed duplicate of their proceedings.  Enclosure of 1809 February 13, by Republicans of Loudoun County:  Met on Feb 13 to send address to President; compliments government on resistance to belligerents of Europe; wish him happiness on his retirement to private life; signed by Secretary Armistead T. Mason.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1809 February 14, Leesburg, Loudoun County, [Virginia] to Thomas Jefferson, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c1f1dfff-338d-4c9d-abc8-8a9d5e206011/retrieve</edm:preview>
+</mdRecord>

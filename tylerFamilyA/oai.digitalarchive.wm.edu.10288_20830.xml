@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, Lyon Gardiner, 1853-1935</dcterms:creator>
+<dcterms:creator>Tyler, Robert Cooper, 1857-1937</dcterms:creator>
+<dcterms:created>1894/1916</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20830</edm:isShownAt>
+<dcterms:description>Discussions of Robert's son Allan's withdrawl from the College of William and Mary, the dedication of a Tyler monument in Richmond, and the death of L.G. Tyler's wife Anne. 4 items.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Correspondence between Robert Cooper Tyler and Lyon G. Tyler, 1894-1916</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c02e4e5c-0bfc-4614-a080-11833d5c6d57/retrieve</edm:preview>
+</mdRecord>

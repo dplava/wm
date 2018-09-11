@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1789-02-09</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15395</edm:isShownAt>
+<dcterms:description>Concerns news received from America; the weather in America; the new Constitution; list of federal senators; George Washington as president and John Adams as vice president; attempts to make amendments to Constitution by New York; the bill of rights; election battle between James Madison and Patrick Henry in Virginia for the Senate; list of elected officials for Pennsylvania, Maryland and Virginia; written attack on Col. David Humphreys; Mayo bridge in Richmond completed; turnpike at Alexandria; Rhode Island refuses to call convention; Spain granted land west of Mississippi river to Col. George Morgan who has invited settlers; Jean Pierre Brissot de Warville's good opinion of America and decision to move there; Gouverneur Morris' arrival in Paris; Benjamin Franklin's health; list of deaths and marriages in Virginia, Philadelphia and Massachusetts; William Short communicated  false information about Marie Catherine Rosalie de Beauchamp, Comtesse de Neuilly living in Paris; decisions to be made about Jefferson's living arrangements; Wiiliam Short communicated false information about news of France concerning money; French Revolution; the French estates' decision to vote by persons or orders; Prince of Wales' acceptance of regency; the Queen of England in charge of the King's affects because of his lunacy; peace with Turks and attack on Prussia; Russia's problems with Poland; Mrs. Lucy Ludwell Paradise in England while Mr. John Paradise in Paris; Jefferson's daughters in good health; Philip Mazzei in good health; two letters to Mr. John Rutledge, Jr.; small commission for William Short at Genoa.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+<dcterms:subject>Morris, Gouverneur, 1752-1816--Travel--France</dcterms:subject>
+<dcterms:subject>Adams, John, 1735-1826</dcterms:subject>
+<dcterms:subject>George III, King of Great Britain, 1738-1820</dcterms:subject>
+<dcterms:subject>Franklin, Benjamin, 1706-1790</dcterms:subject>
+<dcterms:subject>Madison, James, 1749-1812</dcterms:subject>
+<dcterms:subject>Henry, Patrick, 1736-1799</dcterms:subject>
+<dcterms:subject>Mazzei, Filippo, 1730-1816</dcterms:subject>
+<dcterms:subject>Paradise, John, 1748-1795</dcterms:subject>
+<dcterms:subject>Paradise, Lucy Ludwell, 1751-1814</dcterms:subject>
+<dcterms:title>Letter, 1789 February 9, Paris, [France] to [William] Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/f5ef5423-586c-4a6d-8fe0-962d3f5f6b84/retrieve</edm:preview>
+</mdRecord>

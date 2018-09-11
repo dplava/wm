@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1793-11-27</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15387</edm:isShownAt>
+<dcterms:description>Notes letters to and from Pinckney; mentions fever in Philadelphia; many inhabitants left city; President will arrive in about a week when Congress will meet; negotiations with northwestern Indians failed; mentions misunderstanding with Genet which will be made public at next meeting of Congress; wishes to hear from him on subject of Lafayette; copper by the Pigon and Mohawk received; our coinage of silver delayed by Mr. Coxe's inability to give required security. [Copy probably made for Henry Washington].</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+<dcterms:subject>Genet, Edmond Charles, 1763-1834</dcterms:subject>
+<dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
+<dcterms:subject>Coxe, Tench, 1755-1824</dcterms:subject>
+<dcterms:title>Letter, 1893 November 27, Germantown, [Philadelphia, Pennsylvania] to [Thomas] Pinckney, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/bd152705-6d7a-483b-a31b-f335cc8ff4b8/retrieve</edm:preview>
+</mdRecord>

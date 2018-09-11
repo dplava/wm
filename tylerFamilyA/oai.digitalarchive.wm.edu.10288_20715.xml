@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>McGowan, John J.</dcterms:creator>
+<dcterms:created>1856-01-23</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20715</edm:isShownAt>
+<dcterms:description>Notes that, according to custom, a fee is to be collected by the Directory when a new charter is applied for; asks Tyler's opinion as to whether the new laws cancel this old custom or not.  Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1856 January 23, John J. McGowan, Providence, Rhode Island to Robert Tyler</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/1859098e-19f3-4ab5-8e11-c9996d70c57e/retrieve</edm:preview>
+</mdRecord>

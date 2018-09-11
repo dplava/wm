@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Campan, Mme (Jeanne-Louise-Henriette), 1752-1822</dcterms:creator>
+<dcterms:created>1803-10-09</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22566</edm:isShownAt>
+<dcterms:description>Takes advantage of departure of General McPherson to answer you and to tell you that I am infinitely touched by your kind remembrance. I can not console myself for your departure and that of your dear Parent. Madame Garnot has just been dangerously ill. M. Auguie was losing his mind from despair. You know how interesting Mde Garnot was both through her virtues and her talents. Madame Ney is still in Berne with the general. She is pregnant with her second child. Madame Lambert also will give us a little nephew in two or three months. Your old comrade Hortense de Beauharnais is with her husband...News of other female friends. Lucy Crabtree was not able to profit by the opportunity afforded by General McPherson, the expenses of travel seemed too high for her. Thank you dear Papa for letters which contained bills of exchange. Imagine how your good father must be full of thoughts for his two little girls who are here.</dcterms:description>
+<dcterms:language>fre</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>Madame Jeanne Louise Henriette Campan, St. Germaine France to Eliza Kortright Monroe Hay., 9 October 1803</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/0e7e5a5c-7b6e-4821-8f45-b8ea512cddfa/retrieve</edm:preview>
+</mdRecord>

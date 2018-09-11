@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>La Rouërie, Charles Armand Tuffin, marquis de, 1751-1793</dcterms:creator>
+<dcterms:created>1788-12-26</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15334</edm:isShownAt>
+<dcterms:description>Wrote to Mr. Ferdinand Grand about paying the interest that is due; Grand claimed to have received no instructions from the United States board of treasury; requests that Jefferson give Grand the order to pay the interest; if the interest is not paid, there will be consequences for France and the United States; the interest is due on the first day of every year; will be terribly upset if Grand does not pay.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1788 December 26, "au chateau de la Rouerie, par fourgeres en Bretagne, [France], to T[homas] Jefferson, [Paris, France].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/5c18153b-d235-43c4-8ce3-a607d3158d8b/retrieve</edm:preview>
+</mdRecord>

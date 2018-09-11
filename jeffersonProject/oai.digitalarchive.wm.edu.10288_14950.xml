@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Neelly, James</dcterms:creator>
+<dcterms:created>1809-10-18</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14950</edm:isShownAt>
+<dcterms:description>Informs Jefferson of the suicide of Meriwether Lewis; describes the circumstances; has Lewis' possessions; asks Jefferson about their disposition.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:subject>Lewis, Meriwether, 1774-1809--Death and burial</dcterms:subject>
+<dcterms:title>Letter, 1809 October 18, Nashville, [Tennessee] to Thomas Jefferson, Monticello, [Albemarle County, Virginia].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/85785d36-a5ec-46c0-8f5a-a9ad973e30eb/retrieve</edm:preview>
+</mdRecord>

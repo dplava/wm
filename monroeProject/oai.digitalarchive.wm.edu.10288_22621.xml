@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>L., Mary</dcterms:creator>
+<dcterms:created>1853</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22621</edm:isShownAt>
+<dcterms:description>Concerns a projected visit to Monroe, Balston Spa, N.Y; lists complaints about the living conditions from people who have just returned from there; states Miss Melson's brother isn't there; more about travels.  Autographed Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>Mary L. ?, Albany, N.Y., ante 1853.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/2feba4c8-badd-450a-81d3-ded09549474d/retrieve</edm:preview>
+</mdRecord>

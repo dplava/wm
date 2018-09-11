@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Stuart, John, 1749-1823</dcterms:creator>
+<dcterms:created>1797-09-06</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14916</edm:isShownAt>
+<dcterms:description>Acknowledges favor of 15th ult. with membership diploma to philosophical society; will be delighted to communicate anything possible to the society; fears no more bones of Megalonyx will be found in cave; mentions again figure of lion carved on rock on Kenawha [sic] with many other figures of bears apparently of great antiquity.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1797 September 6, Greenbrier [County, Virginia] to [Thomas Jefferson], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/557da9e6-8c2c-412c-93f5-863816b7ebd7/retrieve</edm:preview>
+</mdRecord>

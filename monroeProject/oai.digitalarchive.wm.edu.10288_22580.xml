@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Rogers, Hortensia Monroe</dcterms:creator>
+<dcterms:created>1831-03-04</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22580</edm:isShownAt>
+<dcterms:description>Mr. Rogers has been sent for to go to his sister whom he scarcely expects to find alive. He will give you a minute account of the baby who without vanity is a sweet looking baby. Letter from Sam saynig he would take a meal with us en passant. It was written the minute the claim passed. I fear you trouble yourself about making things for the baby. I have Mr. Rogers' things to pack. Have had no spirit. Languid. Have not strength to nurse the baby in warm weather. Will take calomel when I have weaned her. Give my love to Louisa and thank her for the little necklace would like to see her. Mrs. Murray is better.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>H. M. R. (Hortensia M. Rogers) to Mrs. Eliza Kortright Monroe Hay, New York., 4 March 1831</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/565653ef-0e2e-4632-a894-068b5ff37c63/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Campan, Mme (Jeanne-Louise-Henriette), 1752-1822</dcterms:creator>
+<dcterms:created>1795-01-10</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22565</edm:isShownAt>
+<dcterms:description>I have received last summer a letter which had come under cover of your address and which you had sent to me by Mr. ? formerly Charges des affairs of Portugal and who now resides in this town. He wrote several times in answer to Monsieur D'Arago at the Hague. Eliza is marvelously well. They are preparing a play.</dcterms:description>
+<dcterms:language>fre</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>Genet Jeanne Louise Henriette Campan to James Monroe., 10 January 1795 (20 Nivôse 3) dated from the founding of the Republic</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c647ec54-168e-499a-8033-1257f7e66fb5/retrieve</edm:preview>
+</mdRecord>

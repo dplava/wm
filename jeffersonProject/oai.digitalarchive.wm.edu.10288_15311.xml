@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1788-12-08</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15311</edm:isShownAt>
+<dcterms:description>Mentions the extreme cold in Paris; reports on public reactions to the Notables' "treasonable vote against the people," including "sketches of what should be a bill of rights"; stock prices are rising and are accompanied by increased costs of corn and flour in France and abroad; Pierre Louis de Chastenet, Comte de Puysegur has replaced the Count de Bryenne after the latter's retirement;Mme. de Chambonois died of smallpox; reports that the King of England's disease "was a lunacy" and that the British are expected to establish a regency; passes on political news from the United States, including that "industry and economy begin to take place of the idleness and extravagance which had succeeded the close of the war"; John Jay and Henry Knox are rumored to be candidates for vice president; Jefferson claims the states seem willing to amend the Constitution with a bill of rights, the process for which Jefferson explains, but they worry about losing the power to tax.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>George III, King of Great Britain, 1738-1820</dcterms:subject>
+<dcterms:subject>Jay, John, 1745-1829</dcterms:subject>
+<dcterms:subject>Knox, Henry, 1750-1806</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1788 December 8, Paris, [France] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/0483d737-8b80-4b04-a54b-44141adae933/retrieve</edm:preview>
+</mdRecord>

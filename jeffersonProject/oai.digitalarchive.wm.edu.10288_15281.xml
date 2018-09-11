@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1813-12-13</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15281</edm:isShownAt>
+<dcterms:description>Received copy of his voyages for observation of longitudes at sea and pamphlet on micrometer of rock crystal, which he had shown to self in 1785 at Dr. Franklin's at Passy; telescope Rochon gave Franklin is now in his possession; glad he is interested in growth of manufactures; self has hundred spindles merely for domestic use.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Franklin, Benjamin, 1706-1790</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1813 December 14, Monticello, [Albemarle County, Virginia] to L'Abbe Rochon, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/7dc10dfc-e22a-41b9-82cb-c96c5f93573f/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Prentis, William</dcterms:creator>
+<dcterms:created>1803-11-14</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15317</edm:isShownAt>
+<dcterms:description>Been informed that Burke communicated to Jefferson his intention to write a "History of Virginia"; procuring necessary materials has been an obstacle to self in same work;  Mr. Madison of Williamsburg declined work 3 years ago; Mr. Burke has first volume ready; believes Burke's residence in this country too short; Burke requested him to publish his "History"; wishes Jefferson, Gov. Page and Mr. Madison would read and review it; expects to be paid, but Mr. Burke is at liberty to have it printed elsewhere; would like an answer as Mr. Burke and self wish to begin publication as soon as possible.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Burk, John, d. 1808</dcterms:subject>
+<dcterms:subject>Page, John, 1744-1808</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1803 November 14, Petersburg, [Virginia] to Thomas Jefferson, Washington [D.C.].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/06cb64d2-a1bc-4c3c-a7fd-c38e59c2b67f/retrieve</edm:preview>
+</mdRecord>

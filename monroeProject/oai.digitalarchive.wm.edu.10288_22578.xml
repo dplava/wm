@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Rogers, Hortensia Monroe</dcterms:creator>
+<dcterms:created>1831-02-01</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22578</edm:isShownAt>
+<dcterms:description>Concerned at accounts of grandpapa's health. His sleepiness. Sends bundle. Sent to Skinner to ask him to give it to Sam. Mr. Rogers wearing cotton wadding next to breast. Recovering usual health. Needs some socks of lamb's wool. Mrs. West is knitting the baby some but that is a slow process. Enclose a few lines from a letter from Mary Mercer which is all I have heard of the claim. Has pattern for cape to be worn entirely in the street. Baby has beautiful skin. I forgot to mention that both Frank and Fanny will be free if they stay here 6 months.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Monroe-Hay Family Papers</dcterms:isPartOf>
+<dcterms:title>Hortensia Monroe Rogers "Druid Hill" near Baltimore Md. to mother Mrs. Eliza Kortright Monroe Hay., February 1, 1831</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>MS 00053</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/200231ef-3eee-44be-aa73-53cc32f6f595/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1787-03-27</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15258</edm:isShownAt>
+<dcterms:description>Concerns the map of Virginia that Jefferson wants printed for a book; types of paper it should be printed on and how much the labor will cost to print it; seeds sent by Mr. Francis Eppes which may be rotting in Skipwith's magazine; the acts passed by the Virginia Assembly and the last day that it convenes; commercial arrangements with Monsieur Charles Alexandre de Calonne; William Short as a speaker in Jefferson's name to the bureaux of Charles Alexandre de Calonne and Armand Marc Montmorin de Saint-Herem, Comte de Montmorin; the  suicide of Charles Francois,Comte de Simiane; the climate of Aix-en-Provence is very sunny, Jefferson loves it; description of the city; the cleanliness of the city because of the poor soil; olive trees; his reasons for traveling without a servant; the servant from Dijon; regards to Chevalier de Pio and Monsieur Philip Mazzei.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Mazzei, Filippo, 1730-1816</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1787 March 27, Aix en Provence, [France] to William Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/8b3569cb-80d5-43c1-b1b4-e59f97cca2fe/retrieve</edm:preview>
+</mdRecord>

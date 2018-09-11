@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1789-01-22</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15262</edm:isShownAt>
+<dcterms:description>Concerns letter received from Benjamin Franklin regarding his health; political news of France- representation to the Third Estate, meeting of the estates in Versailles, how the states will vote; summary of Jacques Neckar's report to the king; money Necker borrowed; King of England's insanity and bill about Prince of Wales as sole regent; list of new administration in England; political news of Russia; freezing cold weather; illness of Jefferson's daughters; Jefferson's departure to America in April; received edition of Crusca he wanted; Mr. Jean Antoine Gautier and letter to Rome; Mr. John and Mrs. Lucy Ludwell Paradise in Paris with Jefferson; also sends letter of Mr. John Rutledge, Jr.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Franklin, Benjamin, 1706-1790</dcterms:subject>
+<dcterms:subject>George III, King of Great Britain, 1738-1820</dcterms:subject>
+<dcterms:subject>Necker, Jacques, 1732-1804</dcterms:subject>
+<dcterms:subject>Paradise, John, 1748-1795</dcterms:subject>
+<dcterms:subject>Paradise, Lucy Ludwell, 1751-1814</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1789 January 22, Paris, [France] to William Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/8bb55430-223a-45b8-a6e8-b9a7f7a31036/retrieve</edm:preview>
+</mdRecord>

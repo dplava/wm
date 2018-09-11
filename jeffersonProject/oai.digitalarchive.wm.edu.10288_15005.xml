@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1785-08-19</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15005</edm:isShownAt>
+<dcterms:description>Thanks Maury for agreeing to tutor his nephew, Peter Carr; explains that "no American should come to Europe under 30 years of age" for they will be spoiled by the "hollow, unmeaning manners of Europe"; his nephew's education must proceed rapidly, for "every moment [may] be valued in money"; Spanish must be substituted for Italian for him to learn; encloses a list of books he has ordered for his nephew.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Carr, Peter, 1770-1851</dcterms:subject>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1785 August 19, Paris, [France], to Maury Walker, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/9a72bbc3-8cfc-49e2-8e77-886fab63eba9/retrieve</edm:preview>
+</mdRecord>

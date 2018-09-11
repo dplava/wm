@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1785-12-09</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15002</edm:isShownAt>
+<dcterms:description>Summarizes the state of trade between the United States and France, which both he and Charles Gravier, Comte de Vergennes, wish to expand; as of now, American trade is chiefly with Great Britain; reviews the staples America could export to France, whale oil and tobacco being the most profitable and the most desired by the French; records French complaints about the alleged disregard by American merchants of trade regulations the "tardy" administration of justice by U.S. authorities; Jefferson hopes that the control of the tobacco trade will be removed from the Farrmers General; if "reasonable conditions of commerce" cannot be reached with Great Britain and equitable trade is thus impossible, it may have behoove the United States to trade exclusively with France.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Vergennes, Charles Gravier, comte de, 1719-1787</dcterms:subject>
+<dcterms:title>Notes on a Conversation with Comte de Vergennes, 1785 December 09, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/cebf65dc-acd1-4b51-958c-3db05fdad421/retrieve</edm:preview>
+</mdRecord>

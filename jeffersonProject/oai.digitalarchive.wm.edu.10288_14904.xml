@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Colburn, Robert</dcterms:creator>
+<dcterms:created>1787-04-03</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/14904</edm:isShownAt>
+<dcterms:description>Receipt for expenses for a moose hunting expedition, the purpose of which was to send Jefferson a specimen in Paris.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>"Expenses of the Moss from the Green Mountain on the branches of the Dog River to Lebanon," 1787 April 3, [Lebanon, New Hampshire].</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a60ed974-011e-44aa-81a6-38f70c940153/retrieve</edm:preview>
+</mdRecord>

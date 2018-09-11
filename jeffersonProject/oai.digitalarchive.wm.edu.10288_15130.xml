@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<edm:isShownAt>http://hdl.handle.net/10288/15130</edm:isShownAt>
+<dcterms:description>Let a just view be taken of ancient moralists, including Cicero, Seneca, and others; their precepts useful in governing self and preserving "tranquility of mind," but are short and defective in developing duties to others; they inculcated patriotism, justice, peace, and love; they embraced Deism, or belief in one God, but their ideas about him and his attributes are "degrading and injurious"; their ethics imperfect and often irreconcilable with reason and morality, "repulsive and anti-social"; in this state among the Jews Jesus came-obscure, poor, and uneducated, but with great "natural endowments"; his doctrines appeared under disadvantages: he wrote nothing himself, those educated and able to write were hostile to him, he fell an early victim to jealousy, hence his doctrines were deformed and fragmentary, his doctrines were further disfigured by "corruptions of schismatising followers"; in spite of these disadvantageous, his system of morals is the "most perfect and sublime" ever taught by man; the question of his divinity is irrelevant to the estimate of the "intrinsic merit" of his doctrines; Jesus corrected the Deism of the Jews and gave them "juster" ideas of God's attributes and government; his doctrines relating to treatment of others better than both Jews and ancient philosophers, gathering all into one family under the bonds of love, charity, and peace; philosophies and the Hebrew code dictated actions, while Jesus pushed through to the heart of man; he "taught emphatically" the doctrine of an afterlife.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Cicero, Marcus Tullius</dcterms:subject>
+<dcterms:subject>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</dcterms:subject>
+<dcterms:subject>Jesus Christ</dcterms:subject>
+<dcterms:title>Syllabus of an Estimate of the Doctrines of Jesus Compared with Those of Others.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/7c87c110-28c4-4b96-bd2f-edf397fd8641/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jones, S.</dcterms:creator>
+<dcterms:created>1841-04-13</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20510</edm:isShownAt>
+<dcterms:description>Congratulates him on new office; advises him how to run the country; expresses sorrow for death of [William] Henry Harrison.  Autograph Signed Letter</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1841 April 13, King's Creek, [?] to President John Tyler, Washington, D.C.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/ce0530b8-362f-4f1c-9d11-17f1196f8068/retrieve</edm:preview>
+</mdRecord>

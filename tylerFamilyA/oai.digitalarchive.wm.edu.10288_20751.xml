@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Tyler, John, 1819-1896</dcterms:creator>
+<dcterms:created>1856-12-03</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/20751</edm:isShownAt>
+<dcterms:description>Encloses a report on the dangers confronting the South and his views on the best way to deal with them; would like Wise to publosh the report in as many Southern papers as possible; suggests that it be read in the Convention; claims that where the Contest of 1860 is concerned, Wise is the "only man living who can make the slightest impression upon the North."  Autograph Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>Letter, 1856 December 3, John Tyler Jr.,Washington, D.C. to Henry A. Wise</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 65 T97</dcterms:identifier>
+<dcterms:isPartOf>Tyler Family Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/a3a27116-161b-49e7-8733-de7b44c206ee/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Randolph, David Meade, 1760-1830</dcterms:creator>
+<dcterms:created>1815-10-17</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15392</edm:isShownAt>
+<dcterms:description>His wretchedness and family's ruin caused by arbitrary power in Jefferson's hands; intends to effect an issue between them in public press; will not shrink from his purpose; recalls scenes opened by Secretary of State to Marshall of Virginia; insidiousconversations in August 1793 in cabinet and at country residence [Monticello]; he laments the death of Dr. [Benjamin] Rush and the late Governor of Tennessee, yet he would, in justice to characters of Pierce Brother and Col. Thos. Blount, challenge his appeal to their memories; will ask for correctness of details which he shall unfold later; communication will remain wholly unknown to others until a similar affair at law instituted for the same purpose.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:subject>Marshall, John, 1755-1835</dcterms:subject>
+<dcterms:subject>Rush, Benjamin, 1746-1813</dcterms:subject>
+<dcterms:subject>Blount, Thomas, 1759-1812</dcterms:subject>
+<dcterms:title>Letter, 1815 October 17, Richmond, Virginia to Thomas Jefferson, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 40 T79</dcterms:identifier>
+<dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/c6c5c01e-8026-45a6-8ebf-b3359d333005/retrieve</edm:preview>
+</mdRecord>

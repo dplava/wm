@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1801-10-03</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15371</edm:isShownAt>
+<dcterms:description>Updates Short on efforts to recover money owed him; explains that because Short has been absent from the United States for so many years, he is unfamiliar with the country's interests and thus is likely unqualified for a diplomatic position; when Short returns he will be like a "foreigner" and will need to be "Americanized"; public opinion still favors the Republican party, especially after Federalists committed the "injustice of having totally excluded Republicans" from political office; Jefferson will try to mitigate the imbalance by appointing Republican officials and will continue to work toward unifying the country; emphasizes the importance of neutrality in foreign affairs and not allying with European countries;  "peace is our most important interest, and a recovery from debt"; intends to let treaties expire and recall all diplomatic officials except for a bare minimum.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1801 October 03, Washington, [D.C.] to [William] Short, n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/5842e89f-62fb-497a-97b1-b2495405f097/retrieve</edm:preview>
+</mdRecord>

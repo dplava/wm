@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Citizens of Albemarle County, Virginia</dcterms:creator>
+<dcterms:created>1829-01-28</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24345</edm:isShownAt>
+<dcterms:description>Referred to a Select Committee January 28, 1829, Washington. Pamphlet.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>Jay Johns Collection of James Monroe Papers</dcterms:isPartOf>
+<dcterms:title>Memorial of the Citizens of Albemarle County, in Virginia, Praying Congress to reconsider the claims of Mr. Monroe, late President of the United States, upon the Government, and to renumerate him for his losses and sacrifices incurred in the service of the country</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 68 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/9730934d-8996-4224-8191-e7cfd521c7b5/retrieve</edm:preview>
+</mdRecord>

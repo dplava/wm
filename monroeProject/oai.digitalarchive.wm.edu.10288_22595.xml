@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Power, Charles, J.</dcterms:creator>
+<dcterms:created>1823-02-28</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22595</edm:isShownAt>
+<dcterms:description>Has aide-de-camp and the acting Adjutant General; hopes that his move to the arsenal will prove agreeable to both him and Mrs. Monroe; inquires about an order for transportation to New York.  Autographed Letter Signed</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>Charles J. Power ?, Adj. General, N.Y., to Lt. James Monroe, Arsenal U.S. Army, New York, 28 February 1823</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/6c7dfcd0-1e05-419f-8d4d-a3a944b92101/retrieve</edm:preview>
+</mdRecord>

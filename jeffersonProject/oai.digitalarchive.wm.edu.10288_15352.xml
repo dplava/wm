@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+<dcterms:created>1807-06-12</dcterms:created>
+<edm:isShownAt>http://hdl.handle.net/10288/15352</edm:isShownAt>
+<dcterms:description>Informs Short that not all of his tobacco has been sold which means he can only pay Short $750 before Short returns to Europe; agrees with Short that a third negotiator at Paris is a good idea; explains that the president must consult with his cabinet on matters and how that process works; upon discussing Short's proposition with each cabinet member separately, the general opinion was that a third negotiator was not a good idea at this time; Mr. Bowdoin wants to come home from France; assures Short that he has not lessened his affections for him and does not understand why Short believes that; if Short cannot find a manager for his property, Indian Camp, Jefferson will look into one when he returns home.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
+<dcterms:title>Letter, 1807 June 12, Washington, [D.C.] to [William Short], n.p.</dcterms:title>
+<dcterms:type>text</dcterms:type>
+<dcterms:identifier>Mss. 39.1 J35</dcterms:identifier>
+<dcterms:isPartOf>Thomas Jefferson Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/2b0f73ba-b8fa-43d2-aa7a-82d2e105896a/retrieve</edm:preview>
+</mdRecord>

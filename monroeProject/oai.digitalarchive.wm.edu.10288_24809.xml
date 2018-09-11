@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Crittenden, John J. (John Jordan), 1787-1863</dcterms:creator>
+<dcterms:created>1828-10-01</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/24809</edm:isShownAt>
+<dcterms:language>eng</dcterms:language>
+<dcterms:title>John Jordan Crittenden, Frankfort, Ky., to Col. James Monroe, Aldie, Loudoun County, Virginia, October 1, 1828</dcterms:title>
+<dcterms:identifier>Mss. 39.1 M75</dcterms:identifier>
+<dcterms:isPartOf>James Monroe Papers</dcterms:isPartOf>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/ae628853-044d-4285-b04b-6eaf2193aed3/retrieve</edm:preview>
+</mdRecord>

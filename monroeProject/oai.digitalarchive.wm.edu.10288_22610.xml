@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Monroe, James, 1799-1870</dcterms:creator>
+<dcterms:created>1843-03-30</dcterms:created>
+<edm:isShownAt>https://hdl.handle.net/10288/22610</edm:isShownAt>
+<dcterms:description>Encloses a copy of correspondence; discusses his theory about his father's errors concerning attacks against him; mentions Aunt L. Monroe ? and Fanny.  Autographed Letter Signed Including ACyS of L, 7 February 1843, from J. Monroe, Fort Wachita, to Col. G. Loomis, U.S.A., requesting him to withdraw the accusation he made against him earlier.  Also including ACyS of L, 4 March 1843, from Col. G. Loomis, Fort Towson, to James Monroe, Fort Wachita, responding to the previous letter, asking for forgiveness, and apologizing for any harm he caused.  Also including ACyS of L, 9 March 1843, from James Monroe, Fort Wachita, to Col. G. Loomis, U.S.A., responding to his letter accusing him of treating the apology like a "favor."</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:isPartOf>James Monroe (1799-1870) Family Papers</dcterms:isPartOf>
+<dcterms:title>James Monroe Jr., Fort Wachita, to his uncle James Monroe, New York, N.Y., 30 March 1843.</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:identifier>Mss. 83 M75</dcterms:identifier>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/90ad3715-a12f-4e33-be06-0aaf54f044d3/retrieve</edm:preview>
+</mdRecord>
