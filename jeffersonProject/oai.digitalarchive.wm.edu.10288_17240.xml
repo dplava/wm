@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:creator>Nelson, Thomas, 1738-1789</dcterms:creator>
@@ -12,8 +12,8 @@
 <dcterms:publisher>College of William and Mary, Earl Gregg Swem Library</dcterms:publisher>
 <dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
 <dcterms:title>Thomas Nelson, Jr. to Thomas Jefferson Letter, 1781</dcterms:title>
-<dcterms:type>text</dcterms:type>
+<dcterms:type>Text</dcterms:type>
 <dcterms:identifier>Mss. Acc. 2004.08 17240</dcterms:identifier>
 <dcterms:isPartOf>Thomas Nelson, Jr. to Thomas Jefferson Letter</dcterms:isPartOf>
-<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/f46e5670-d4ae-4235-a728-f446e590390b/retrieve</edm:preview>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/0a8445b5-2786-457a-9f20-b10974715605/retrieve</edm:preview>
 </mdRecord>

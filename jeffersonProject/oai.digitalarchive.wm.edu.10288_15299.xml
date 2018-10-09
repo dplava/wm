@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
@@ -13,8 +13,8 @@
 <dcterms:subject>Rutledge, John, 1739-1800</dcterms:subject>
 <dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
 <dcterms:title>Letter, 1788 May 08, Paris, [France], to Dr. [William] Shippen, n.p.</dcterms:title>
-<dcterms:type>text</dcterms:type>
+<dcterms:type>Text</dcterms:type>
 <dcterms:identifier>Mss. 40 T79 15299</dcterms:identifier>
 <dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
-<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/1058664c-c58d-49fa-9319-83716c38d8ae/retrieve</edm:preview>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/45fcfa6f-8d1f-4b22-bf40-e51938b2e30c/retrieve</edm:preview>
 </mdRecord>

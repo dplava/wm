@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:creator>Stuart, John, 1749-1823</dcterms:creator>
@@ -11,8 +11,8 @@
 <dcterms:language>eng</dcterms:language>
 <dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
 <dcterms:title>Letter, 1796 July 13, Greenbrier [County, Virginia] to Tho[ma]s Jefferson, n.p.</dcterms:title>
-<dcterms:type>text</dcterms:type>
+<dcterms:type>Text</dcterms:type>
 <dcterms:identifier>Mss. 40 T79 15361</dcterms:identifier>
 <dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
-<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/8b3bbeb5-ef03-49fa-92fe-2def36de7d9c/retrieve</edm:preview>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/01f56893-5038-49fd-8a61-72a6bec5141e/retrieve</edm:preview>
 </mdRecord>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:creator>Lasteyrie, C. de 1759-1849</dcterms:creator>
@@ -12,8 +12,8 @@
 <dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
 <dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
 <dcterms:title>Letter, 1808 March 28, Paris, [France] to [Thomas Jefferson], n.p.</dcterms:title>
-<dcterms:type>text</dcterms:type>
+<dcterms:type>Text</dcterms:type>
 <dcterms:identifier>Mss. 40 T79 14679</dcterms:identifier>
 <dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
-<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/e0716be9-e43b-48f2-b030-448c8f5ca446/retrieve</edm:preview>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/f97fa022-7d5d-4736-8779-323f6a4eed35/retrieve</edm:preview>
 </mdRecord>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>College of William &amp; Mary</dcterms:provenance>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:creator>King, Rufus, 1755-1827</dcterms:creator>
@@ -11,8 +11,8 @@
 <dcterms:language>eng</dcterms:language>
 <dcterms:subject>Jefferson, Thomas, 1743-1826--Correspondence</dcterms:subject>
 <dcterms:title>Letter, 1802 August 23, "On board the Richmond on the Potomac River," to Thomas Jefferson, Washington, [D.C.].</dcterms:title>
-<dcterms:type>text</dcterms:type>
+<dcterms:type>Text</dcterms:type>
 <dcterms:identifier>Mss. 40 T79 15029</dcterms:identifier>
 <dcterms:isPartOf>Tucker-Coleman Papers</dcterms:isPartOf>
-<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/44011864-63fa-436f-a533-a7595565bf76/retrieve</edm:preview>
+<edm:preview>https://digitalarchive.wm.edu/rest/bitstreams/8cee6662-5ade-419a-849a-f46590ea5a91/retrieve</edm:preview>
 </mdRecord>
