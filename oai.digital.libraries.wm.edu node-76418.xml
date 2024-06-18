@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2024-06-18T13:26:17Z</responseDate><request verb="GetRecord" metadataPrefix="mdRecord">https://digital.libraries.wm.edu/oai/request</request><GetRecord><record><header><identifier>oai:digital.libraries.wm.edu:node-76418</identifier><datestamp>2023-03-20T13:44:49Z</datestamp><setSpec>collection_lits:entity_reference_1</setSpec></header><metadata><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Leven Powell Papers</dcterms:title>
-                  <dcterms:description>This collection is largely comprised of the correspondence of Leven Powell, who served in the American Revolution, the Virginia House of Delegates, and the U. S. House of Representatives. The letters reflect military and civilian situations in Virginia during the Revolution, United States and Virginia politics, and foreign relations in the early national period. The collection also includes financial records concerning the Revolutionary War and Loudoun County, Virginia.</dcterms:description>
-                  <dcterms:created>1774/1806</dcterms:created>
-                  <dcterms:extent>1 item</dcterms:extent>
-                  <dcterms:identifier>Mss. 65 P87</dcterms:identifier>
-                  <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
-                  <dcterms:provenance>William &amp; Mary</dcterms:provenance>
-                  <dcterms:type>Collection</dcterms:type></mdRecord></metadata></record></GetRecord></OAI-PMH>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Leven Powell Papers</dcterms:title>
+    <edm:isShownAt>https://n2t.net/ark:/81220/w2x92215k</edm:isShownAt>
+    <edm:preview>http://i8-dev.swem.wm.edu/_flysystem/repo-service/styles/solr_grid_thumbnail/repo-bin/2023-02/Mss.65P87_20150324_001_014_014_001_tn.jpg.jpeg?itok=cVcxiSNw</edm:preview>
+    <dcterms:description>This collection is largely comprised of the correspondence of Leven Powell,
+        who served in the American Revolution, the Virginia House of Delegates, and the U. S. House
+        of Representatives. The letters reflect military and civilian situations in Virginia during
+        the Revolution, United States and Virginia politics, and foreign relations in the early
+        national period. The collection also includes financial records concerning the Revolutionary
+        War and Loudoun County, Virginia.</dcterms:description>
+    <dcterms:created>1774/1806</dcterms:created>
+    <dcterms:extent>1 item</dcterms:extent>
+    <dcterms:identifier>Mss. 65 P87</dcterms:identifier>
+    <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
+    <dcterms:provenance>William &amp; Mary</dcterms:provenance>
+    <dcterms:type>Collection</dcterms:type>
+</mdRecord>
