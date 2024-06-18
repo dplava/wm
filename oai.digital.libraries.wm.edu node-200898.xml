@@ -1,10 +1,26 @@
 <?xml version="1.0"?>
-<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2024-06-18T13:28:20Z</responseDate><request verb="GetRecord" metadataPrefix="mdRecord">https://digital.libraries.wm.edu/oai/request</request><GetRecord><record><header><identifier>oai:digital.libraries.wm.edu:node-200898</identifier><datestamp>2023-06-12T15:15:27Z</datestamp><setSpec>collection_lits:entity_reference_1</setSpec></header><metadata><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Powell Family Papers, Hepburn Addition</dcterms:title>
-                  <edm:isShownAt>https://n2t.net/ark:/81220/w2cv4c35h</edm:isShownAt>
-                  <dcterms:description>This collection contains the correspondence of Leven Powell, James Madison, Charles Leven Powell, Charles Leven Powell, Jr., Selina Powell Hepburn, and others. Recipients include Burr Powell, Cuthbert Powell, Sewell Stavely Hepbron [Hepburn] and others. The first 30 years of correspondence is mainly written by or addressed to Leven Powell, detailing his involvement in the Revolutionary War, the Virginia House of Delegates, and the United State Congress, including letters about the Election of 1800. After 1810, letters are primarily correspondence between various members of the Powell family, including some letters about the Civil War. Includes family tree of the Hepburn Family.</dcterms:description>
-                  <dcterms:created>1775/1870</dcterms:created>
-                  <dcterms:extent>1 item</dcterms:extent>
-                  <dcterms:identifier>Mss. Acc. 2007.110</dcterms:identifier>
-                  <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
-                  <dcterms:provenance>William &amp; Mary</dcterms:provenance>
-                  <dcterms:type>Collection</dcterms:type></mdRecord></metadata></record></GetRecord></OAI-PMH>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:title>Powell Family Papers, Hepburn Addition</dcterms:title>
+    <edm:isShownAt>https://n2t.net/ark:/81220/w2cv4c35h</edm:isShownAt>
+    <edm:preview>http://i8-dev.swem.wm.edu/_flysystem/repo-service/styles/solr_grid_thumbnail/repo-bin/2023-08/Mss.Acc_.2007.110_1423_20140714_010_tn.jpg.jpeg?itok=3XOpyDoI</edm:preview>
+    <dcterms:description>This collection contains the correspondence of Leven Powell, James Madison,
+        Charles Leven Powell, Charles Leven Powell, Jr., Selina Powell Hepburn, and others.
+        Recipients include Burr Powell, Cuthbert Powell, Sewell Stavely Hepbron [Hepburn] and
+        others. The first 30 years of correspondence is mainly written by or addressed to Leven
+        Powell, detailing his involvement in the Revolutionary War, the Virginia House of Delegates,
+        and the United State Congress, including letters about the Election of 1800. After 1810,
+        letters are primarily correspondence between various members of the Powell family, including
+        some letters about the Civil War. Includes family tree of the Hepburn
+        Family.</dcterms:description>
+    <dcterms:created>1775/1870</dcterms:created>
+    <dcterms:extent>70 items</dcterms:extent>
+    <dcterms:identifier>Mss. Acc. 2007.110</dcterms:identifier>
+    <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
+    <dcterms:provenance>William &amp; Mary</dcterms:provenance>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:type>Collection</dcterms:type>
+</mdRecord>
