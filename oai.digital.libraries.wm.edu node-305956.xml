@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2024-06-18T13:24:11Z</responseDate><request verb="GetRecord" metadataPrefix="mdRecord">https://digital.libraries.wm.edu/oai/request</request><GetRecord><record><header><identifier>oai:digital.libraries.wm.edu:node-305956</identifier><datestamp>2023-12-08T15:58:14Z</datestamp><setSpec>collection_lits:entity_reference_1</setSpec></header><metadata><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Albert W. Raymond Papers, 1939-1941</dcterms:title>
+                  <edm:isShownAt>https://n2t.net/ark:/81220/w2416tc9q</edm:isShownAt>
+                  <dcterms:description>Contains both official and personal correspondence of the family of Albert W. Raymond, an American volunteer ambulance driver who was taken prisoner of war by the Germans in France on May 15, 1940. He was held at the German prison camp for officers at Hoyerswerda, near Dresden. Among the correspondents are his wife Helen, his daughter and son-in-law, Fred I. Raymond, and Alfred R. Thomson. Recollections of his capture, newspaper clippings, and photographs are included here.</dcterms:description>
+                  <dcterms:created>1939/1941</dcterms:created>
+                  <dcterms:identifier>MS 00106</dcterms:identifier>
+                  <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
+          <dcterms:isPartOf>Images</dcterms:isPartOf>
+                  <dcterms:provenance>William &amp; Mary</dcterms:provenance>
+                  <dcterms:type>Collection</dcterms:type></mdRecord></metadata></record></GetRecord></OAI-PMH>

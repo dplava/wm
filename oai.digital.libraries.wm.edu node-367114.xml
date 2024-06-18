@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2024-06-18T13:08:58Z</responseDate><request verb="GetRecord" metadataPrefix="mdRecord">https://digital.libraries.wm.edu/oai/request</request><GetRecord><record><header><identifier>oai:digital.libraries.wm.edu:node-367114</identifier><datestamp>2024-02-13T16:58:34Z</datestamp><setSpec>collection_lits:entity_reference_1</setSpec></header><metadata><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Abolitionist Movement Collection</dcterms:title>
+                  <edm:isShownAt>https://n2t.net/ark:/81220/w2qv3ck5h</edm:isShownAt>
+                  <dcterms:description>Letters, a speech, and a photograph relating to the abolitionist movement in the United States.</dcterms:description>
+                  <dcterms:created>1834/1888</dcterms:created>
+                  <dcterms:identifier>SC 01101</dcterms:identifier>
+                  <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
+          <dcterms:isPartOf>Images</dcterms:isPartOf>
+                  <dcterms:provenance>William &amp; Mary</dcterms:provenance>
+                  <dcterms:type>Collection</dcterms:type></mdRecord></metadata></record></GetRecord></OAI-PMH>

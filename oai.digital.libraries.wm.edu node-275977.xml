@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2024-06-18T13:33:53Z</responseDate><request verb="GetRecord" metadataPrefix="mdRecord">https://digital.libraries.wm.edu/oai/request</request><GetRecord><record><header><identifier>oai:digital.libraries.wm.edu:node-275977</identifier><datestamp>2023-07-07T19:21:11Z</datestamp><setSpec>collection_lits:entity_reference_1</setSpec></header><metadata><mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd"><dcterms:title>Traveller&#039;s Rest Daybooks</dcterms:title>
+                  <edm:isShownAt>https://n2t.net/ark:/81220/w27w67j1m</edm:isShownAt>
+                  <dcterms:description>Account books of Traveller&#039;s Rest, a tavern in Louisa County, Virginia. The books list individuals, lodging, and food and drink, as well as feed for horses.</dcterms:description>
+                  <dcterms:created>1816/1838</dcterms:created>
+                  <dcterms:extent>1 item</dcterms:extent>
+                  <dcterms:identifier>Mss. MsV Ah2-Ah10</dcterms:identifier>
+                  <dcterms:isPartOf>Manuscripts</dcterms:isPartOf>
+                  <dcterms:provenance>William &amp; Mary</dcterms:provenance>
+                  <dcterms:type>Collection</dcterms:type></mdRecord></metadata></record></GetRecord></OAI-PMH>
